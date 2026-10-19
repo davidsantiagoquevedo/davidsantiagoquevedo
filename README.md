@@ -20,7 +20,7 @@ I'm David, a physicist with expertise in computational, mathematical, and data-d
 - [Transmission and severity analysis of the four waves of SARS-CoV-2 in Bogotá](https://github.com/TRACE-LAC/covid19-waves-bogota)
 - [Compartmental model used by the Colombian government to build the detect-isolate-and-trace strategy for COVID-19 (DAR/PRASS)](https://github.com/davidsantiagoquevedo/SEIR-DIT)
 
-👯 **Collaborations.** I'm always happy to collaborate with people and explore new and interesting research fields. I love learning about new topics and discussing new ideas. You can reach out to me through my social media.
+🫱🏻‍🫲🏾 **Collaborations.** I'm always happy to collaborate with people and explore new and interesting research fields. I love learning about new topics and discussing new ideas. You can reach out to me through my social media.
 
 [![Email](https://img.shields.io/badge/Email-mailto:davidsantiagoquevedo@gmail.com-blue?style=flat-square)](mailto:davidsantiagoquevedo@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-informational?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/david-santiago-quevedo-vega/)
