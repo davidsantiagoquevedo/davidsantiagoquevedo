@@ -27,7 +27,7 @@ I'm David, a physicist with expertise in computational, mathematical, and data-d
 [![Orcid](https://img.shields.io/badge/Orcid-gray?style=flat-square&logo=ORCID)](https://orcid.org/0000-0003-1583-4262)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-%2320beff?color=1f1f18&logo=google-scholar&style=flat-square)](https://scholar.google.com/citations?user=VG7Pjo8AAAAJ&hl=es&inst=7240083048524121927&oi=ao)
 
-📄 **You can find my** [full CV here](https://drive.google.com/file/d/1H9_IGKuz13tuyF5o_LRU4AUOZscLL5KW/view?usp=drive_link).
+📄 **You can find my** [full CV here](https://drive.google.com/file/d/1H9_IGKuz13tuyF5o_LRU4AUOZscLL5KW/view?usp=sharing).
 <details>
 <summary>
 💾 Languages and tools I'm familiar with:
