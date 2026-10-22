@@ -1,7 +1,7 @@
 
 ## Hola 👋
 
-I'm David, a physicist with expertise in computational, mathematical, and data-driven modelling of complex systems. My expertise spans nonequilibrium statistical physics and stochastic processes, epidemiology and public health, and wealth inequality. I'm currently finishing my PhD at the [Institute for Theoretical Physics](https://www.uu.nl/en/research/institute-for-theoretical-physics) at Utrecht University, the Netherlands.
+I'm David, a physicist with expertise in computational, mathematical, and data-driven modelling of complex systems. My expertise spans nonequilibrium statistical physics and stochastic processes, epidemiology and public health, and wealth inequality. I'm currently finishing my PhD at the [Institute for Theoretical Physics](https://www.uu.nl/en/research/institute-for-theoretical-physics) at Utrecht University, the Netherlands. A significant part of my work focuses on developing reproducible, ready-to-use, tested, and documented open-source computational tools. Some of my projects are listed below.
 
 🔭 **My PhD research** focuses on the study of non-Markovian stochastic processes, combining tools from fractional calculus, stochastic field theories, and numerical analysis. My goal is to describe physical systems where the interaction between anomalous diffusion and nonequilibrium statistical physics plays a central role.
 
